@@ -7,6 +7,6 @@ icon:
   color: db0421
 
 ---
-Computer Systems & Networks
+# Computer Systems & Networks
 
 logic · computer organisation · os · networks · interfaces · sensors
