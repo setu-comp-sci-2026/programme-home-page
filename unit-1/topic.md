@@ -1,2 +1,2 @@
-Semester Two: Jan - May 2026
+Semester Two: January - May 2026
 
