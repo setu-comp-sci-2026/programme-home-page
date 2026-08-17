@@ -4,7 +4,7 @@ icon:
   color: 009656
 ---
 
-# Online Induction
+# Induction
 
 
 induction · structure · schedules · handbook
