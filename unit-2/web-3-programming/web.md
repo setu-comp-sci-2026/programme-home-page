@@ -5,4 +5,4 @@ icon:
 ---
 Programming
 
-algorithms · data structures · processing · java · classes · libraries
+algorithms · data structures · processing · python · libraries
