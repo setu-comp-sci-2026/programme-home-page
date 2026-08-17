@@ -1,60 +1,58 @@
 title : Semester 1
 weeks :
-  - 2025-09-08 :
-      title : -2
-      type  : Introductions
-  - 2025-09-15 :
-      title : -1
-      type  : Registration
-  - 2025-09-22 :
+
+  - 2026-08-30 :
       title : 0
       type  : Induction
-  - 2025-09-29 :
+  - 2026-09-06 :
       title : 1
       type  : Tuition
-  - 2025-10-06 :
+  - 2026-09-1 3:
       title : 2
       type  : Tuition
-  - 2025-10-13 :
+  - 2026-09-20 :
       title : 3
       type  : Tuition
-  - 2025-10-20 :
-      title : 4
-      type  : Tuition
-  - 2025-10-27:
+  - 2026-09-27 :
       title : Reading 1
       type  : Reading
-  - 2025-11-03 :
+  - 2026-10-04:
+      title : 4
+      type  : Tuition
+  - 2026-10-11 :
       title : 5
       type  : Tuition 
-  - 2025-11-10 :
+  - 2026-10-18 :
       title : 6
       type  : Tuition
-  - 2025-11-17 :
+  - 2026-10-25 :
       title : Reading 2
       type  : Reading
-  - 2025-11-24 :
+  - 2026-11-01 :
       title : 7
       type  : Tuition
-  - 2025-12-01 :
+  - 2026-11-08 :
       title : 8
       type  : Tuition
-  - 2025-12-08 :
+  - 2026-11-15 :
       title : 9
       type  : Tuition
-  - 2025-12-15 :
-      title : 10
-      type  : Project 
-  - 2025-12-22 :
-      title : 11
-      type  : Project 
-  - 2025-12-29 :
-      title : 12
-      type  : Project
-  - 2026-01-05 :
+  - 2026-11-22 :
       title : Reading 3
       type  : Reading 
-  - 2026-01-12 :
+  - 2026-11-29 :
+      title : 10
+      type  : Tuition
+  - 2026-12-06 :
+      title : 11
+      type  : Tuition
+  - 2026-12-13 :
+      title : 12
+      type  : Tuition
+  - 2026-12-20:
       title : Reading 4
+      type  : Reading 
+  - 2026-12-27:
+      title : Reading 5
       type  : Reading 
  

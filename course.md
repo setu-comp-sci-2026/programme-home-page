@@ -1,4 +1,4 @@
-# Certificate in Computer Science 2025
+# Certificate in Computer Science 2026
  
  The ONLINE Certificate in Science in Computer Science is a 1-year course designed to allow graduates from non-computing disciplines to acquire the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment in the ICT domain in general and in software development in particular. 
 
