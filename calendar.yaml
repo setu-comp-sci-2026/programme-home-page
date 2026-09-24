@@ -38,17 +38,17 @@ weeks :
       title : 9
       type  : Tuition
   - 2026-11-22 :
-      title : Reading 3
-      type  : Reading 
-  - 2026-11-29 :
       title : 10
       type  : Tuition
-  - 2026-12-06 :
+  - 2026-11-29 :
       title : 11
       type  : Tuition
-  - 2026-12-13 :
+  - 2026-12-06 :
       title : 12
       type  : Tuition
+  - 2026-12-13 :
+      title : Reading 3
+      type  : Reading
   - 2026-12-20:
       title : Reading 4
       type  : Reading 
